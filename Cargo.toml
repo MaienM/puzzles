@@ -13,7 +13,7 @@ version = "0.0.0"
 edition = "2024"
 
 [workspace.dependencies]
-criterion = "=0.8.0"
+criterion = "=0.8.1"
 derive-new = "=0.7.0"
 itertools = "=0.14.0"
 num = "=0.4.3"
