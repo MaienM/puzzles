@@ -29,7 +29,7 @@ include-chapters = [
 [dependencies]
 ansi_term = "=0.12.1"
 cfg-if = "=1.0.4"
-clap = { version = "=4.5.54", features = ["derive", "string"] }
+clap = { version = "=4.5.55", features = ["derive", "string"] }
 puzzle_runner_derive = { path = "./derive" }
 rayon.workspace = true
 serde = { version = "=1.0.228", features = ["derive"] }
