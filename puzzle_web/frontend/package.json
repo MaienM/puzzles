@@ -28,24 +28,24 @@
     "@emotion/styled": "11.14.1",
     "@fontsource/mononoki": "5.2.5",
     "@fontsource/roboto": "5.2.9",
-    "@mui/icons-material": "7.3.5",
-    "@mui/material": "7.3.5",
-    "@mui/x-date-pickers": "8.19.0",
+    "@mui/icons-material": "7.3.7",
+    "@mui/material": "7.3.7",
+    "@mui/x-date-pickers": "8.26.0",
     "comlink": "4.4.2",
     "date-fns": "4.1.0",
     "hosted-git-info": "9.0.2",
-    "lodash-es": "4.17.21",
+    "lodash-es": "4.17.23",
     "puzzle_wasm": "file:./puzzle_wasm",
-    "react": "19.2.0",
-    "react-dom": "19.2.0",
-    "react-router": "7.9.6",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-router": "7.13.0",
     "use-elapsed-time": "3.0.4"
   },
   "devDependencies": {
     "@maienm/eslint-config": "1.11.0",
     "@types/hosted-git-info": "3.0.5",
     "@types/lodash-es": "4.17.12",
-    "@types/react": "19.2.7",
+    "@types/react": "19.2.9",
     "@types/react-dom": "19.2.3",
     "copy-webpack-plugin": "13.0.1",
     "css-loader": "7.1.2",
@@ -53,8 +53,8 @@
     "style-loader": "4.0.0",
     "ts-loader": "9.5.4",
     "typescript": "5.9.3",
-    "webpack": "5.103.0",
+    "webpack": "5.104.1",
     "webpack-cli": "6.0.1",
-    "webpack-dev-server": "5.2.2"
+    "webpack-dev-server": "5.2.3"
   }
 }
